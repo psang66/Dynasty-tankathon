@@ -1,0 +1,19 @@
+DYNASTY TANKATHON V6 - START HERE
+
+1. Create a NEW empty GitHub repository.
+2. Unzip this folder.
+3. Upload the CONTENTS of dynasty-tankathon-v6 into the GitHub repo.
+4. The GitHub homepage must immediately show:
+   - api/
+   - index.html
+   - app.js
+   - styles.css
+   - package.json
+5. Create a NEW Vercel project from that GitHub repo.
+6. Framework = Other. Root Directory = ./ . No custom build/output settings.
+7. Deploy.
+8. FIRST open: https://YOUR-SITE.vercel.app/api/health
+9. Do not move on until /api/health returns JSON with "ok": true.
+10. Then open the main .vercel.app URL.
+
+Do NOT use the GitHub Pages URL for the live site.
